@@ -1,6 +1,6 @@
-# Livro de Receitas
+# Livro de Receitas :man_cook:
 Olá! Bem vindo ao meu livro de receitas 
-* Strgonoff
-* Feijoada
+* Strgonoff 
+* Feijoada 
 * Pavê
 * Feijão Tropeiro
